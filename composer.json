@@ -1,0 +1,14 @@
+{
+    "name": "dzhuravel/php7x",
+    "description": "With using the PHP library, we are checking the new feature of 7.x features in index.php file.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmytro Zhuravel",
+            "email": "dmitrozhyravel@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
