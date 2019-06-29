@@ -8,12 +8,12 @@ The preferred way to install this extension is through **composer**. Check the *
 
 To install or either to run:
 
-> php composer.phar require d3i10n/php7x
+> php composer.phar require dzhuravel/php7x
 
 
 or add:
 
->"d3li0n/php7x": "*"
+>"dzhuravel/php7x": "*"
 
 to the required section of your components.
 
