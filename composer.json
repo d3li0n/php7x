@@ -9,5 +9,16 @@
             "email": "dmitrozhyravel@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "dzhuravel\\php7x\\": ""
+        }
+    }
 }
