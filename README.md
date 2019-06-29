@@ -8,14 +8,7 @@ The preferred way to install this extension is through **composer**. Check the *
 
 To install or either to run:
 
-> php composer.phar require dzhuravel/php7x
-
-
-or add:
-
->"dzhuravel/php7x": "*"
-
-to the required section of your components.
+> php composer.phar require "dzhuravel/php7x @dev"
 
 ## Basic Usage
 
